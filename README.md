@@ -276,6 +276,19 @@ Built with Google Cloud (Vertex AI, BigQuery, Firestore, Cloud Storage, Cloud Ru
 Flash, Google ADK, and Grafana Cloud (dashboards, OTLP ingestion, MCP) with OpenTelemetry for
 instrumentation.
 
-## Team
+## 👥 Team
 
-_Add team member names and roles here before submission._
+### Muazu Abdullahi Muhammed
+**Founder • AI Engineer • Full-Stack Developer • Product Designer**
+
+**Responsibilities**
+- Conceived and led the CineOps Studio product vision.
+- Designed the overall system architecture and multi-agent workflow.
+- Developed the FastAPI backend and Google ADK agent orchestration.
+- Built and integrated the Producer Copilot, ScriptBreakdown, ScheduleOrchestrator, and BudgetGuardian agents.
+- Integrated Google Gemini, Vertex AI, Firestore, BigQuery, Cloud Storage, and Grafana Cloud.
+- Designed and implemented the React frontend, dashboards, and production workflow UI.
+- Implemented OpenTelemetry instrumentation and observability.
+- Developed the Demo Accelerator, production timeline, risk analysis, and sustainability features.
+- Managed deployment to Google Cloud Run and project infrastructure.
+- Prepared the technical documentation, presentation, and hackathon submission.
